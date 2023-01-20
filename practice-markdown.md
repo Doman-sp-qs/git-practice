@@ -16,4 +16,5 @@ I'm practicing the markdown writing here.
 * スペース2つで改行
 * 改行1つで半角スペース1つ
 * 箇条書き
-
+ 
+スペース1つで改行できるか確認
