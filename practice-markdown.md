@@ -1,5 +1,6 @@
 # Preface
-HELLO, I'm practicing the markdown writing here.
+HELLO,
+I'm practicing the markdown writing here.
 
 # Practice
 行末にスペース2つで改行  
