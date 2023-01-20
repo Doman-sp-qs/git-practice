@@ -1,2 +1,4 @@
-# HEllO
-## I'm practicing the markdown writing here.
+# Greeting
+HEllO
+I'm practicing the markdown writing here.
+
